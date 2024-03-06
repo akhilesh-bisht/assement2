@@ -1,0 +1,6 @@
+.active .number {
+  background-color: blue;
+}
+.complete .number {
+  background-color: green;
+}
